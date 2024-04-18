@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Sugar",
+      "type": "Solid",
+      "unit": "1kg 10kg",
+      "subProducts": []
+    },
+    {
+      "name": "Tea",
+      "type": "Solid",
+      "unit": "200gm 500gm 1kg",
+      "subProducts": []
+    },
+    {
+      "name": "Milk",
+      "type": "Liquid",
+      "unit": "1ltr 500ml",
+      "subProducts": []
+    },
+    {
+      "id": 0,
+      "name": "apple",
+      "type": "solid",
+      "unit": "1kg 10kg",
+      "subProducts": []
+    }
+  ]
+}

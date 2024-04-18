@@ -1,0 +1,47 @@
+
+
+.container{
+    margin-top: 20px;
+}
+.table-container {
+    margin-top: 20px;
+
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  
+  .table th,
+  .table td, li {
+    padding: 10px;
+    border: 1px solid #dddddd;
+    text-align: center;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+   
+  }
+  
+  
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    color: #ffffff;
+  }
+  
